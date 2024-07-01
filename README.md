@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é Álison, tenho 20 anos de idade, sou um desenvolvedor <strong>Full stack</strong> apaixonado por escrever linhas de código tomando um bom café.
+  Meu nome é Álison, tenho 21 anos de idade, sou um desenvolvedor <strong>Full stack</strong> apaixonado por escrever linhas de código tomando um bom café.
 
   Sou técnico de informática e atualmente estudo análise e desenvolvimento de sistemas no ifrs, mal posso esperar para criarmos algo incrível juntos.
 </p>
